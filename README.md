@@ -38,8 +38,8 @@ $ kubectl get pods
 $ kubectl exec -it <pocketflow-backend-PODS_NAME> bash 
   python manage.py makemigrations && python manage.py migrate
 ```
-localサイトにアクセス:
-[http://pocketflow/](http://pocketflow/)
+localサイトにアクセス:  
+[http://pocketflow/](http://pocketflow/)  
 リソース削除:
 ```bash
 $ helmfile delete
