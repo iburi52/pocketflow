@@ -1,0 +1,16 @@
+ingress:
+  hosts:
+    - host: pocketflow
+      paths: 
+        - path: /api
+          backend:
+            serviceName: pocketflow-backend
+            servicePort: 8080
+        - path: /media
+          backend:
+            serviceName: pocketflow-backend
+            servicePort: 8080
+        - path: /
+          backend:
+            serviceName: pocketflow-frontend
+            servicePort: 80

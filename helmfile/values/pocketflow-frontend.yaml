@@ -1,0 +1,6 @@
+app:
+  name: pocketflow-frontend
+  group: frontend
+  container:
+    image: iburi52/pocketflow-frontend:v1
+    port: 80

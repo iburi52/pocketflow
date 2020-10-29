@@ -1,0 +1,10 @@
+app:
+  name: pocketflow-backend
+  group: backend
+  container:
+    image: iburi52/pocketflow-backend:v1
+    config:
+      - name: postgres-config
+    env:
+      - key: DB_SERVER
+        value: pocketflow-postgres
