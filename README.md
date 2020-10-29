@@ -2,9 +2,9 @@
 # ポートフォリオサイト概要
 TensorFlowで画像認識「いぬ/ねこ判別機」  
   
-テストユーザ：  
-emaill:pocketflow.test.user@gmail.com  
-password:Password1  
+#テストユーザ：  
+#emaill:pocketflow.test.user@gmail.com  
+#password:Password1  
 
 ## 使用した技術一覧
 * フロントエンド：angular(Mat Card, Flex-Layout)
