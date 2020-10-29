@@ -25,7 +25,7 @@ hostファイルの編集(Macの場合):
 $ minikube ip
 $ sudo nano /etc/hosts
   <MINIKUBE_IP> pocketflow
-# sudo killall -HUP mDNSResponder
+$ sudo killall -HUP mDNSResponder
 ```
 すべてのhelmチャートをクラスターにインストール:
 ```bash
@@ -37,6 +37,10 @@ $ helm sync
 $ kubectl get pods
 $ kubectl exec -it <pocketflow-backend-PODS_NAME> bash 
   python manage.py makemigrations && python manage.py migrate
+```
+localサイトにアクセス:
+```bash
+[http://pocketflow/](http://pocketflow/)
 ```
 リソース削除:
 ```bash
