@@ -5,7 +5,7 @@ TensorFlowで画像認識「いぬ/ねこ判別機」
 * emaill:pocketflow.test.user@gmail.com  
 * password:Password1  
 
-(https://github.com/iburi52/pocketflow/issues/1#issue-748614815)
+![pocketflow (1)](https://user-images.githubusercontent.com/59566529/99944959-1cc6fc80-2db7-11eb-873f-171367071c1d.png)
 
 ## 使用した技術一覧
 * フロントエンド：angular(Mat Card, Flex-Layout)
