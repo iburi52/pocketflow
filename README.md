@@ -1,7 +1,7 @@
 # [「PocketFlow」](http://portfoliosite.pocketflow.work/)
 # ポートフォリオサイト概要
 TensorFlowで画像認識「いぬ/ねこ判別機」  
-* テストユーザ：  
+テストユーザ：  
 * emaill:pocketflow.test.user@gmail.com  
 * password:Password1  
 
