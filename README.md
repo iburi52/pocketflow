@@ -36,7 +36,7 @@ $ sudo killall -HUP mDNSResponder
 すべてのhelmチャートをクラスターにインストール:
 ```bash
 $ cd helmfile
-$ helm sync
+$ helmfile sync
 ```
 データベース作成:
 ```bash
