@@ -2,10 +2,6 @@
 # ポートフォリオサイト概要
 TensorFlowで画像認識「いぬ/ねこ判別機」  
 
-テストユーザ：  
-* emaill:pocketflow.test.user@gmail.com  
-* password:Password1  
-
 ![pocketflow (1)](https://user-images.githubusercontent.com/59566529/99944959-1cc6fc80-2db7-11eb-873f-171367071c1d.png)
 
 ## 使用した技術一覧
@@ -45,6 +41,10 @@ $ kubectl exec -it <pocketflow-backend-PODS_NAME> bash
   python manage.py makemigrations && python manage.py migrate
 ```
 localサイトにアクセス:[http://pocketflow/](http://pocketflow/)  
+テストユーザ：  
+* emaill:pocketflow.test.user@gmail.com  
+* password:Password1  
+  
   
 リソース削除:
 ```bash
