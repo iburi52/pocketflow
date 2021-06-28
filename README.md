@@ -4,6 +4,9 @@ TensorFlowで画像認識「いぬ/ねこ判別機」
 
 ![pocketflow (1)](https://user-images.githubusercontent.com/59566529/99944959-1cc6fc80-2db7-11eb-873f-171367071c1d.png)
 
+サイトのスクリーンショット
+![pocketflow (2)](https://user-images.githubusercontent.com/59566529/123712412-3b412900-d8ad-11eb-9568-8695b84eadab.png)
+
 ## 使用した技術一覧
 * フロントエンド：angular(Mat Card, Flex-Layout)
 * バックエンド  ：django(REST API)
