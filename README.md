@@ -1,4 +1,4 @@
-# 「PocketFlow」
+# 「PocketFlow」(停止中です)
 # ポートフォリオサイト概要
 TensorFlowで画像認識「いぬ/ねこ判別機」  
 ![pocketflow (1)](https://user-images.githubusercontent.com/59566529/99944959-1cc6fc80-2db7-11eb-873f-171367071c1d.png)
